@@ -1,4 +1,5 @@
 # Machine learning
+###### Ariel University, Israel || Semester B 2022
 
 ### Ex3: 
 1. Perceptron
@@ -9,4 +10,3 @@
 ### Final Project: 
 
 
-#### Ariel University, Israel || Semester B 2022
