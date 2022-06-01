@@ -3,9 +3,9 @@
 
 > **Ex3:**
 > 
->> 1. Perceptron
+>> * Perceptron
 >> 
->> 2. AdaBoost
+>> * AdaBoost
 >> 
 > **Ex4:**
 > 
