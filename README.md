@@ -9,6 +9,10 @@
 >> 
 > **Ex4:**
 > 
+>> * Knn
+>> 
+>> * JL-transform
+>> 
 > **Final Project:**
 
 
