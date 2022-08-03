@@ -9,7 +9,7 @@
 >> * AdaBoost
 >> 
 >
-> <u>**Ex4:**</u>
+> **Ex4:**
 > 
 >> * Knn
 >> 
@@ -24,8 +24,10 @@
 >>
 >> * Reduce image size with PCA algorithm, and use it as input to ML classification algorithms, and compare their results, to the Auto-Encoder method results.
 >>
->> <u>ML and DL methods:</u> KNN, SVM, Logistic regression, NN, CNN
+>> ML and DL methods: 
+>> KNN, SVM, Logistic regression, NN, CNN
 >>
->> <u>Data Set:<\u> MNIST Digit
+>> Data Set: 
+>> MNIST Digit
 >>
 >
