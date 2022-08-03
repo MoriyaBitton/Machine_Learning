@@ -1,4 +1,5 @@
 # Machine learning
+
 ###### Ariel University, Israel || Semester B 2022
 
 > 
@@ -22,7 +23,7 @@
 >> 
 >> * Extract feature vector from images using Auto-Encoder, use it as input to ML algorithms, and compare algorithms classification results.
 >>
->> * Reduce image size with PCA algorithm, and use it as input to ML classification algorithms, and compare their results, to the Auto-Encoder method results.
+>> * Reduce image size with PCA algorithm, and use it as input to ML classification algorithms, and compare their results, to the Auto-Encoder method results.
 >>
 >> ML and DL methods: 
 >> KNN, SVM, Logistic regression, NN, CNN
