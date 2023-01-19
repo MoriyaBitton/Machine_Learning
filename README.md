@@ -21,5 +21,5 @@
 **ML and DL methods:**
 KNN, SVM, Logistic regression, NN, CNN
 
-**DataSet:**  
+**DataSet:**
 MNIST Digit
