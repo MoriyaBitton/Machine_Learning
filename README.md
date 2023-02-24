@@ -17,5 +17,5 @@
 * Check whether ML algorithms can classify images without image preprocessing
 * Extract feature vector from images using Auto-Encoder, use it as input to ML algorithms, and compare algorithms classification results.
 * Reduce image size with PCA algorithm, and use it as input to ML classification algorithms, and compare their results, to the Auto-Encoder method results.
-* <br> **ML and DL methods:** <br/> KNN, SVM, Logistic regression, NN, CNN
+* **ML and DL methods:** <br/> KNN, SVM, Logistic regression, NN, CNN
 * **DataSet:** MNIST Digit
