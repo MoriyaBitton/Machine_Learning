@@ -2,20 +2,24 @@
 
 ###### Ariel University, Israel || Semester B 2022
 
-## _Including:_
+----------------------------------------------------------------------------
 
-### **Ex3:**
+### Including:
 
-* Perceptron
-* AdaBoost
+* **Ex3:**
 
-### **Ex4:**
-* Knn
-* JL-transform
+  * Perceptron
+  * AdaBoost
+
+* **Ex4:**
+
+  * Knn
+  * JL-transform
  
-### **Final Project:**
-* Check whether ML algorithms can classify images without image preprocessing
-* Extract feature vector from images using Auto-Encoder, use it as input to ML algorithms, and compare algorithms classification results.
-* Reduce image size with PCA algorithm, and use it as input to ML classification algorithms, and compare their results, to the Auto-Encoder method results.
-* **Methods:** <br> &nbsp;&nbsp;&nbsp; KNN, SVM, Logistic regression, NN, CNN
-* **DataSet:** <br> &nbsp;&nbsp;&nbsp; MNIST Digit
+* **Final Project [Link](https://colab.research.google.com/drive/1VcUgijfN7fyAbcL2zza4GUZNuhmdnI51?usp=drive_link):**
+
+  * Check whether ML algorithms can classify images without image preprocessing
+  * Extract feature vector from images using Auto-Encoder, use it as input to ML algorithms, and compare algorithms classification results.
+  * Reduce image size with PCA algorithm, and use it as input to ML classification algorithms, and compare their results, to the Auto-Encoder method results.
+  * **Methods:** <br> &nbsp;&nbsp;&nbsp; KNN, SVM, Logistic regression, NN, CNN
+  * **DataSet:** <br> &nbsp;&nbsp;&nbsp; MNIST Digit
