@@ -7,12 +7,10 @@
 ### Including:
 
 * **Ex3:**
-
   * Perceptron
   * AdaBoost
 
 * **Ex4:**
-
   * Knn
   * JL-transform
  
