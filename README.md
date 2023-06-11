@@ -15,7 +15,6 @@
   * JL-transform
  
 * **Final Project [Link](https://colab.research.google.com/drive/1VcUgijfN7fyAbcL2zza4GUZNuhmdnI51?usp=drive_link):**
-
   * Methods: 
     * KNN
     * SVM
