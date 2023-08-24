@@ -2,9 +2,7 @@
 
 ###### Ariel University, Israel || Semester B 2022
 
-----------------------------------------------------------------------------
-
-### Including:
+## _Including_
 
 * **Ex3:**
   * Perceptron
